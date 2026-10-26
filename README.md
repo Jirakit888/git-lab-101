@@ -11,5 +11,5 @@ This repository contains Git Lab 10 exercises.
 ---
 ### Student Info
 - **ชื่อ:** Jirakit Phumee
-- **รหัสนักศึกษา:** 1168104620061
+- **รหัสนักศึกษา:** 116810462006-1
 - **อีเมล:** 1168104620061@mail.rmutt.ac.th
